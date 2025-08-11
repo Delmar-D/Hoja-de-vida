@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.67)
+}
+
+#subtitulo-verde {
+    color: rgb(226, 134, 43);
+}
+
+table {
+    color: hsl(0, 0%, 0%);
+    background-color: aliceblue;
+    border-inline-end: 0cm;
+}
+h4{
+    color: rgb(226, 134, 43);
+}
